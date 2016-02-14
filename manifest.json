@@ -1,0 +1,54 @@
+{
+	"status": "ok",
+	"date": "2016-02-14",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://multirom-clark.github.io/multirom-20160214-v33-UNOFFICIAL-clark.zip",
+						"version": "33",
+						"type": "multirom",
+						"size": 4419032,
+						"md5": "bf10f5a667b33f56f07b11c93bb81f3d"
+					},
+					{
+						"url": "https://multirom-clark.github.io/TWRP_multirom_clark_20160214.img",
+						"version": "mrom20160214-00",
+						"type": "recovery",
+						"size": 39503872,
+						"md5": "81d5a8b4528d18d8cd4941111970041a"
+					},
+					{
+						"extra": {"releases":["MM"]},
+						"url": "https://multirom-clark.github.io/MM_kexec_20160214.zip",
+						"version": "6.x.x(mm)",
+						"md5": "85d7e7f83e0c4d74ffae840d1de50f55",
+						"type": "kernel",
+						"size": 9684186
+					},
+					{
+						"url": "https://multirom-clark.github.io/",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1705902,
+						"md5": "ba0cb12f4350264b5328fde888b2c753"
+					}
+				],
+			"changelogs":
+				[
+					{
+						"url": "https://multirom-clark.github.io/changelog_clark_multirom.txt",
+						"name": "MultiROM"
+					},
+					{
+						"url": "https://multirom-clark.github.io/changelog_clark_recovery.txt",
+						"name": "Recovery"
+					}
+				],
+			"name": "clark"
+			}
+		]
+}
